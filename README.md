@@ -1,3 +1,6 @@
+Web Application
+Tech Stack: Node.js, SQLite, HTML & CSS, EJS
+
 **Functionalities**
 
  1. Creating & connecting to a new SQLite database.
