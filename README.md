@@ -1,6 +1,6 @@
 Web Application
 
-**Tech Stack: Node.js, SQLite, HTML & CSS, EJS**
+_**Tech Stack: Node.js, SQLite, HTML & CSS, EJS**_
 
 **Functionalities**
 
