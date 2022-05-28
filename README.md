@@ -23,3 +23,12 @@ Step 1: Run the following command to start the server.
 Step 2: Open [`http://localhost:3000/`](http://localhost:3000/) on your browser. Good to go👍.
 
 **Note: When the table is dropped, reset the database by clearing `movie.db` file and re-run the code so that new table is created.**
+
+
+
+
+
+![Home page](https://github.com/VasukipriyaKN/MuleSoft-Training/blob/main/images/Screenshot%20(1).png)
+
+
+![Query Display page](https://github.com/VasukipriyaKN/MuleSoft-Training/blob/main/images/Screenshot%20(2).png)
