@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display</title>
+    <style>
+        *{
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 1.2rem;
+            color: #00B200;
+            outline: none;
+            border: none;
+        }
+        body{
+            margin: 50px 0 0 0;
+            background-color: #ACFFBA;
+        }
+        p{
+            display: inline;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <% for(var i=0; i<here.length;i++){ %>
+        <p>Movie Title: </p><%=here[i].m_name%><br>
+        <p>Actor Name: </p><%=here[i].m_actor%><br>
+        <p>Actress Name: </p><%=here[i].m_actress%><br>
+        <p>Year: </p><%=here[i].m_year%><br>
+        <p>Director Name: </p><%=here[i].m_director%><br>
+        <br><br>
+    <%}%>
+
+    <a href="/">GO BACK</a>
+
+    <h2></h2>
+</body>
+</html>
